@@ -1,0 +1,5 @@
+{
+  "name": "Home Network Manager",
+  "description": "A centralized dashboard to manage home ZTE network devices.",
+  "requestFramePermissions": []
+}
